@@ -1,0 +1,62 @@
+body {
+    overflow-x: hidden;
+}
+
+.titulo {
+    font-family: DynaPuff;
+    font-size: 28px;
+    text-align: center;
+    margin-top: -480px;
+    position: relative;
+    margin-left: -700px;
+    color: chocolate;
+}
+
+.titulo2 {
+    margin-left: 260px;
+}
+
+.texto {
+    text-align: left;
+    width: 500px;
+    margin-left: 80px;
+}
+
+.btn {
+    margin-top: 40px;
+    margin-left: 180px;
+}
+
+.desc {
+    color: chocolate;
+    margin-left: 270px;
+    position: absolute;
+    margin-top: 10px;
+}
+
+.card {
+    background-color: #ccc;
+    border: none;
+}
+
+.face {
+    width: 50px;
+    margin-top: -300px;
+    margin-left: 560px;
+    cursor: pointer;
+}
+
+.twi {
+    width: 50px;
+    margin-top: -300px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+.ins {
+    width: 50px;
+    margin-top: -300px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+
